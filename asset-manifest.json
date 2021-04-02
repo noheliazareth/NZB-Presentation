@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/NZB-Presentation/static/css/main.8ac61529.chunk.css",
+    "main.js": "/NZB-Presentation/static/js/main.c6c36bb7.chunk.js",
+    "main.js.map": "/NZB-Presentation/static/js/main.c6c36bb7.chunk.js.map",
+    "runtime-main.js": "/NZB-Presentation/static/js/runtime-main.c7c0a6d2.js",
+    "runtime-main.js.map": "/NZB-Presentation/static/js/runtime-main.c7c0a6d2.js.map",
+    "static/js/2.9b70ba0c.chunk.js": "/NZB-Presentation/static/js/2.9b70ba0c.chunk.js",
+    "static/js/2.9b70ba0c.chunk.js.map": "/NZB-Presentation/static/js/2.9b70ba0c.chunk.js.map",
+    "static/js/3.3593c3eb.chunk.js": "/NZB-Presentation/static/js/3.3593c3eb.chunk.js",
+    "static/js/3.3593c3eb.chunk.js.map": "/NZB-Presentation/static/js/3.3593c3eb.chunk.js.map",
+    "index.html": "/NZB-Presentation/index.html",
+    "static/css/main.8ac61529.chunk.css.map": "/NZB-Presentation/static/css/main.8ac61529.chunk.css.map",
+    "static/js/2.9b70ba0c.chunk.js.LICENSE.txt": "/NZB-Presentation/static/js/2.9b70ba0c.chunk.js.LICENSE.txt",
+    "static/media/MAC Juticalpa 1.89e88cbc.png": "/NZB-Presentation/static/media/MAC Juticalpa 1.89e88cbc.png",
+    "static/media/MAC Juticalpa 2.566e9e1a.png": "/NZB-Presentation/static/media/MAC Juticalpa 2.566e9e1a.png",
+    "static/media/MAC La Concepcion 1.16a3410b.png": "/NZB-Presentation/static/media/MAC La Concepcion 1.16a3410b.png",
+    "static/media/MAC La Concepcion 2.1cab12c1.png": "/NZB-Presentation/static/media/MAC La Concepcion 2.1cab12c1.png",
+    "static/media/MAC PHB 1.c5c9308d.png": "/NZB-Presentation/static/media/MAC PHB 1.c5c9308d.png",
+    "static/media/MAC PHB 2.e6bc4bd4.png": "/NZB-Presentation/static/media/MAC PHB 2.e6bc4bd4.png",
+    "static/media/MAC PHC 1.e4c820e7.png": "/NZB-Presentation/static/media/MAC PHC 1.e4c820e7.png",
+    "static/media/MAC PHC 2.d368a970.png": "/NZB-Presentation/static/media/MAC PHC 2.d368a970.png",
+    "static/media/App.css": "/NZB-Presentation/static/media/NZB App BG.f0058007.jpg",
+    "static/media/email logo.a90487e7.png": "/NZB-Presentation/static/media/email logo.a90487e7.png",
+    "static/media/github logo.565e6424.png": "/NZB-Presentation/static/media/github logo.565e6424.png",
+    "static/media/img.a9f882e6.png": "/NZB-Presentation/static/media/img.a9f882e6.png",
+    "static/media/linkedin logo.bc5229cf.png": "/NZB-Presentation/static/media/linkedin logo.bc5229cf.png",
+    "static/media/react logo.f2cd161c.png": "/NZB-Presentation/static/media/react logo.f2cd161c.png",
+    "static/media/selenium logo.80e18411.png": "/NZB-Presentation/static/media/selenium logo.80e18411.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7c0a6d2.js",
+    "static/js/2.9b70ba0c.chunk.js",
+    "static/css/main.8ac61529.chunk.css",
+    "static/js/main.c6c36bb7.chunk.js"
+  ]
+}
