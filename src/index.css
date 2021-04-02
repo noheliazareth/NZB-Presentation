@@ -1,6 +1,6 @@
 h1 {
   font-family: "Orbitron", sans-serif;
-  font-size: 2rem;
+  font-size: 20 px;
   text-align: right;
   color: rgb(29, 29, 29);
   position: absolute;
@@ -13,6 +13,8 @@ h1 {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
   }
 }
 
@@ -165,8 +167,8 @@ button {
   width: 50%;
   height: 3rem;
   margin: 0 auto;
+  font-size: 16px;
   font-family: "Orbitron", sans-serif;
-  font-size: 1.5rem;
   color: rgb(29, 29, 29);
   border: none;
   border-radius: 10px;
