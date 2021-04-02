@@ -1,6 +1,6 @@
 h1 {
   font-family: "Orbitron", sans-serif;
-  font-size: 40px;
+  font-size: 2rem;
   text-align: right;
   color: rgb(29, 29, 29);
   position: absolute;
@@ -129,7 +129,7 @@ form {
   line-height: 3rem;
 }
 input[type="name"] {
-  font-size: 20px;
+  font-size: 1rem;
   color: rgb(230, 230, 230);
   padding: 5px;
   box-sizing: border-box;
@@ -139,7 +139,7 @@ input[type="name"] {
   border-bottom: 1px solid #eee;
 }
 input[type="email"] {
-  font-size: 20px;
+  font-size: 1rem;
   color: rgb(230, 230, 230);
   padding: 5px;
   box-sizing: border-box;
@@ -149,7 +149,7 @@ input[type="email"] {
   border-bottom: 1px solid #eee;
 }
 textarea {
-  font-size: 20px;
+  font-size: 1rem;
   color: rgb(230, 230, 230);
   padding: 5px;
   box-sizing: border-box;
@@ -166,7 +166,7 @@ button {
   height: 3rem;
   margin: 0 auto;
   font-family: "Orbitron", sans-serif;
-  font-size: 24px;
+  font-size: 1.5rem;
   color: rgb(29, 29, 29);
   border: none;
   border-radius: 10px;

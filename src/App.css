@@ -2,7 +2,7 @@
   text-align: center;
   align-items: center;
   background-image: url("NZB App BG.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   background-attachment: fixed;
 }
 
