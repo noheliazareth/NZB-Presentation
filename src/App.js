@@ -123,7 +123,7 @@ function Resume(){
       <resume>
         My name is Nohelia Zareth Borjas, and I'm an experienced Agile QA analyst that will help you maintain your website, no matter the complexity it requires.
         I have worked on highly industrialized projects of widely diverse fields: from water purifying facilities, hydroelectric power plants, world-wide e-market shops. Some of my projects were even located in remote places, yet their webpages remain having the highest performance.
-        I'm currently working in SIT, Barcelona, maintaining their websited through automated testing. 
+        I'm currently working in SIT, Barcelona, maintaining some of their websites through automated testing. 
         <p>
         Some of my tools include Jira for ticketing in both SCRUM and KANBAN; Selenium for automation; Javascript, Typescript, HTML, CSS, and React JS for webpage development; Siemens TIA Portal, and QuickHMI for PLC and industrial applications; and I did a little Python for ROS systems.
         Don't hestitate to contact me for any ideas you have in mind to help you build and maintain YOUR OWN WEBSITE.
