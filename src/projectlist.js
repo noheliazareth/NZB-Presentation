@@ -6,8 +6,15 @@ import PBLC1 from './MAC La Concepcion 1.png';
 import PBLC2 from './MAC La Concepcion 2.png';
 import JUTI1 from './MAC Juticalpa 1.png';
 import JUTI2 from './MAC Juticalpa 2.png';
+import LIDL1 from './MAC LIDL1.png';
+import LIDL2 from './MAC LIDL2.png';
 
 export const projectlist = [
+    {text:'Lidl Webpage Maintenance',
+    description:'Curerntly maintaining the checkout process for 6 different countries-shops using Selenium, Test-NG and other undisclosed tools.',
+    image1:LIDL1,
+    image2:LIDL2
+    },
     {text:'Hydroelectric Power Plant Babilonia',
     description:'Created using html, css, javascript & QuickHMI. Maitained by Cypress using JAVA. Tracks and displays real-time data that is key for the correct operation of the  hydroelectric powerplant, in order to analyse performance and production.',
     image1:PHB1,
@@ -27,5 +34,5 @@ export const projectlist = [
     description:'Created using html, css, javascript, jquery via TIA Portal. First webpage using React.js. Maintained by Selenium using JAVA. Monitoring system that presents data directly from the PLCs, thus unveiling the operation of the pumps, motors, and other key elements of the pumping station.',
     image1:JUTI1,
     image2:JUTI2
-    },
+    }
 ]
