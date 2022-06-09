@@ -6,8 +6,8 @@ import PBLC1 from './MAC La Concepcion 1.png';
 import PBLC2 from './MAC La Concepcion 2.png';
 import JUTI1 from './MAC Juticalpa 1.png';
 import JUTI2 from './MAC Juticalpa 2.png';
-import LIDL1 from './MAC LIDL1.png';
-import LIDL2 from './MAC LIDL2.png';
+import LIDL1 from './LIDL1.png';
+import LIDL2 from './LIDL2.png';
 
 export const projectlist = [
     {text:'Lidl Webpage Maintenance',
